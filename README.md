@@ -6,4 +6,5 @@ This is my first ever GitHub repository. I've always navigated around Git, but I
 What will end up here in my hello-world repository? At the moment, I've no idea, I'm just following a tutorial right now. I will be working with the Panda3D game engine soon, though, and I'll probably make a new repository for that project once it gets underway.
 
 Cheers,
+
 Collin a.k.a. Thefuzzyman
